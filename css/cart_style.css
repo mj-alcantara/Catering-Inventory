@@ -1,0 +1,439 @@
+/* Cart Page Specific Styles */
+.cart-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #1f1f1f;
+    margin-bottom: 20px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+.cart-info {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(255, 143, 171, 0.1);
+    text-align: center;
+    font-weight: 600;
+    color: #666;
+    border: 1px solid #f0f0f0;
+}
+
+.cart-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(255, 143, 171, 0.1);
+    border: 1px solid #f0f0f0;
+}
+
+.cart-table th, .cart-table td {
+    padding: 20px 15px;
+    text-align: left;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.cart-table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    color: #1f1f1f;
+}
+
+.cart-totals {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(255, 143, 171, 0.1);
+    max-width: 400px;
+    margin-left: auto;
+    border: 1px solid #f0f0f0;
+}
+
+.cart-totals h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1f1f1f;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+.totals-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 16px;
+}
+
+.totals-row.total {
+    font-weight: 700;
+    font-size: 18px;
+    border-bottom: none;
+    color: #ff5c8f;
+}
+
+.checkout-btn {
+    display: block;
+    width: 100%;
+    padding: 16px 24px;
+    background: #ff8fab;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    box-shadow: 0 4px 16px rgba(255, 143, 171, 0.3);
+}
+
+.checkout-btn:hover {
+    background: #ff7896;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 143, 171, 0.4);
+}
+
+.clear-cart-btn {
+    display: block;
+    width: 100%;
+    padding: 12px 24px;
+    background: #ff4757;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.clear-cart-btn:hover {
+    background: #ff3742;
+    transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .cart-totals {
+        max-width: 100%;
+        margin-left: 0;
+    }
+    
+    .cart-table {
+        font-size: 14px;
+    }
+    
+    .cart-table th, .cart-table td {
+        padding: 15px 10px;
+    }
+}
+
+/* Clear Cart Confirmation Modal Styles */
+.clear-confirmation-modal {
+    display: none;
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.clear-confirmation-modal.active {
+    display: flex;
+}
+
+.clear-confirmation-content {
+    background: #ffffff;
+    border-radius: 16px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    animation: slideUp 0.4s ease;
+    overflow: hidden;
+    text-align: center;
+}
+
+.clear-confirmation-header {
+    padding: 24px 30px 20px;
+    background: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.clear-confirmation-header h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1f1f1f;
+}
+
+.clear-confirmation-body {
+    padding: 0 30px 24px;
+}
+
+.clear-confirmation-icon {
+    margin-bottom: 20px;
+}
+
+.clear-confirmation-icon svg {
+    color: #ff4757;
+    width: 64px;
+    height: 64px;
+}
+
+.clear-confirmation-body h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #1f1f1f;
+    margin-bottom: 12px;
+}
+
+.clear-confirmation-body p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
+
+.clear-confirmation-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+.clear-confirmation-btn {
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.3s ease;
+    min-width: 120px;
+    border: none;
+    cursor: pointer;
+    flex: 1;
+}
+
+.clear-confirmation-cancel {
+    background: transparent;
+    color: #666;
+    border: 2px solid #ddd;
+}
+
+.clear-confirmation-cancel:hover {
+    background: #f5f5f5;
+    border-color: #ccc;
+    transform: translateY(-2px);
+}
+
+.clear-confirmation-confirm {
+    background: #ff4757;
+    color: #ffffff;
+    border: 2px solid #ff4757;
+}
+
+.clear-confirmation-confirm:hover {
+    background: #ff3742;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(255, 71, 129, 0.4);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from { transform: translateY(60px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+/* Cart Actions Styles */
+.cart-actions {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.edit-btn, .delete-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit-btn {
+    color: #ff8fab;
+    border: 1px solid #ff8fab;
+}
+
+.edit-btn:hover {
+    background: #ff8fab;
+    color: white;
+    transform: translateY(-1px);
+}
+
+.delete-btn {
+    color: #ff4757;
+    border: 1px solid #ff4757;
+}
+
+.delete-btn:hover {
+    background: #ff4757;
+    color: white;
+    transform: translateY(-1px);
+}
+
+/* Quantity Selector for Edit Modal */
+.quantity-selector-simple {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+    padding: 0;
+}
+
+.qty-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    border: 2px solid #ff8fab;
+    background: #ffffff;
+    color: #ff8fab;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.qty-btn:hover {
+    background: #ff8fab;
+    color: #ffffff;
+}
+
+.qty-number {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1f1f1f;
+    min-width: 30px;
+    text-align: center;
+    padding: 0 10px;
+}
+
+/* Delete Item Modal Specific Styles */
+#deleteItemModal .clear-confirmation-icon svg {
+    color: #ff4757;
+}
+
+#deleteItemModal .clear-confirmation-confirm {
+    background: #ff4757;
+    border-color: #ff4757;
+}
+
+#deleteItemModal .clear-confirmation-confirm:hover {
+    background: #ff3742;
+    border-color: #ff3742;
+}
+
+.cart-actions {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.edit-btn, .delete-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit-btn {
+    color: #ff8fab;
+    border: 1px solid #ff8fab;
+}
+
+.edit-btn:hover {
+    background: #ff8fab;
+    color: white;
+    transform: translateY(-1px);
+}
+
+.delete-btn {
+    color: #ff4757;
+    border: 1px solid #ff4757;
+}
+
+.delete-btn:hover {
+    background: #ff4757;
+    color: white;
+    transform: translateY(-1px);
+}
+
+.quantity-selector-simple {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+    padding: 0;
+}
+
+.qty-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    border: 2px solid #ff8fab;
+    background: #ffffff;
+    color: #ff8fab;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.qty-btn:hover {
+    background: #ff8fab;
+    color: #ffffff;
+}
+
+.qty-number {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1f1f1f;
+    min-width: 30px;
+    text-align: center;
+    padding: 0 10px;
+}

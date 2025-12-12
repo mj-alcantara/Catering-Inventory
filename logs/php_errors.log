@@ -1,0 +1,210 @@
+# PHP Error Logs
+# This file will be automatically populated with PHP errors
+# Check this file if you encounter any issues
+[24-Nov-2025 10:51:15 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:51:23 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:54:26 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:55:03 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:55:54 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:56:41 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:58:09 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:59:24 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 10:59:33 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:01:06 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:01:14 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:01:16 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:01:36 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(29): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:02:41 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(33): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:05:24 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(98): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(33): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 98
+[24-Nov-2025 11:08:15 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:103
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(103): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(32): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 103
+[24-Nov-2025 11:11:42 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:103
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(103): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(32): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 103
+[24-Nov-2025 11:14:21 Asia/Manila] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\ByteMe\api\config\config.php:103
+Stack trace:
+#0 C:\xampp\htdocs\ByteMe\api\config\config.php(103): trim(Array)
+#1 C:\xampp\htdocs\ByteMe\api\orders\create.php(32): validateRequiredFields(Array, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\ByteMe\api\config\config.php on line 103
+[24-Nov-2025 11:22:07 Asia/Manila] Cancel order error: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE dimi_donuts.sp_cancel_order does not exist
+[30-Nov-2025 13:32:34 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:32:34 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:32:50 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:32:50 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:32:51 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:32:51 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:07 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:07 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:07 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:07 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:09 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:09 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:14 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:14 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:26 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:26 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:26 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:26 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:40 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:40 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:33:43 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:33:43 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:34:05 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:34:05 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:34:08 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:34:08 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:35:27 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:35:27 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:35:28 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:35:28 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 13:46:46 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 13:46:46 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 15:24:47 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 15:24:47 Asia/Manila] Get products error: Database connection failed
+[30-Nov-2025 15:25:02 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[30-Nov-2025 15:25:02 Asia/Manila] Get products error: Database connection failed
+[01-Dec-2025 15:44:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:44:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:44:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:44:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:45:14 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:45:14 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:45:14 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:45:14 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:45:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:45:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:45:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:45:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:47:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:47:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:47:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:47:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:47:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:47:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:47:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:47:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:51:18 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:51:18 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:51:18 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:51:18 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:51:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 15:51:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 15:51:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 15:51:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 15:57:07 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Dec-2025 15:57:07 Asia/Manila] Get products error: Database connection failed
+[01-Dec-2025 16:09:50 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Dec-2025 16:09:50 Asia/Manila] Get products error: Database connection failed
+[01-Dec-2025 16:09:54 Asia/Manila] Connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Dec-2025 16:09:54 Asia/Manila] Get products error: Database connection failed
+[01-Dec-2025 16:24:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 16:24:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 16:24:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 16:24:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[01-Dec-2025 16:24:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[01-Dec-2025 16:24:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[01-Dec-2025 16:24:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[01-Dec-2025 16:24:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 20
+[02-Dec-2025 02:44:15 Asia/Manila] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed SMTP server error: QUIT command failed
+[02-Dec-2025 02:46:55 Asia/Manila] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed SMTP server error: QUIT command failed
+[02-Dec-2025 03:21:02 Asia/Manila] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed SMTP server error: QUIT command failed
+[02-Dec-2025 04:05:34 Asia/Manila] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed SMTP server error: QUIT command failed
+[02-Dec-2025 04:06:05 Asia/Manila] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed SMTP server error: QUIT command failed
+[02-Dec-2025 12:04:17 Asia/Manila] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[02-Dec-2025 13:23:39 Asia/Manila] Order Creation Error: Insufficient stock for: DONUT TRAY A.3 (Available: 0)
+[02-Dec-2025 13:24:02 Asia/Manila] Order Creation Error: Insufficient stock for: DONUT TRAY A.3 (Available: 0)
+[02-Dec-2025 13:24:43 Asia/Manila] Order Creation Error: Insufficient stock for: DONUT TRAY A.3 (Available: 0)
+[02-Dec-2025 18:35:01 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[02-Dec-2025 18:35:01 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[02-Dec-2025 18:35:01 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
+[02-Dec-2025 18:35:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 17
+[02-Dec-2025 18:35:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 18
+[02-Dec-2025 18:35:27 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\ByteMe-final\api\config\config.php on line 19
